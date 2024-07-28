@@ -1,1 +1,1 @@
-this ToDO application is created uring spring boot anf mysql database is used.
+this ToDo application is created using spring boot and mysql database is used.
